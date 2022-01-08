@@ -1,6 +1,6 @@
-Tableau Public VIZ site:
+Tableau Public workbook site:
 
-https://public.tableau.com/app/profile/bonnie.bailey/viz/CitiBike-TableauChallenge
+https://public.tableau.com/authoring/CitiBikesChallenge_16416775517030/Analysis#1
 
 # Tableau-Challenge-Citi-Bike-Analytics
 
