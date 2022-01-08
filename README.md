@@ -1,3 +1,7 @@
+Tableau Public VIZ site:
+
+https://public.tableau.com/app/profile/bonnie.bailey/viz/CitiBike-TableauChallenge
+
 # Tableau-Challenge-Citi-Bike-Analytics
 
 Tableau Homework - Citi Bike Analytics
